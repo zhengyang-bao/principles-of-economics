@@ -17,6 +17,6 @@ Throughout the course, we will build models, read papers, watch films, discuss c
 
 ## Course Information
 
-- Instructor: Jiaming Mao
-- Email: jmao@xmu.edu.cn
-- **Homepage**: [jiamingmao.github.io/principles-of-economics](http://jiamingmao.github.io/principles-of-economics)
+- Instructor: ZHENGYANG BAO
+- **Homepage**: [zhengyangbao.github.io/principles-of-economics](http://zhengyangbao.github.io/principles-of-economics)
+- Acknowledgement: the lecture material are made by Jiaming Mao
