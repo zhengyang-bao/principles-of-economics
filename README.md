@@ -18,5 +18,5 @@ Throughout the course, we will build models, read papers, watch films, discuss c
 ## Course Information
 
 - Instructor: ZHENGYANG BAO
-- **Homepage**: [zhengyang-bao.github.io/principles-of-economics](http://zhengyangbao.github.io/principles-of-economics)
+- **Homepage**: [https://github.com/zhengyang-bao/principles-of-economics.git](https://github.com/zhengyang-bao/principles-of-economics.git)
 - Acknowledgement: the lecture materials are made by Jiaming Mao
